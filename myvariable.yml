@@ -1,0 +1,4 @@
+---
+# in the above example, this would be vars/external_vars.yml
+haproxy_port: 8080
+web_port: 80
